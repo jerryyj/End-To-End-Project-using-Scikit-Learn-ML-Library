@@ -10,3 +10,8 @@
 - Model evaluation
 - Model fine-tuning
 - Model evaluation post fine-tuning
+
+## ML models used:
+- SGD Regressor
+- Random Forest Regressor
+- MLP Regressor
