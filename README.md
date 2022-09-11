@@ -5,7 +5,7 @@
     - Data visualization
     - Feature selection
     - Data normalization
-    - Data training-test stratified split
+    - Data training-test split using stratified sampling
 - Model training
 - Model evaluation
 - Model fine-tuning
